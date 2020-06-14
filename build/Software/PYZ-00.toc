@@ -1,0 +1,2 @@
+('C:\\Users\\neppa\\Documents\\Webapp\\Software\\build\\Software\\PYZ-00.pyz',
+ [])
